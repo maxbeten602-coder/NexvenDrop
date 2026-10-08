@@ -1,0 +1,25 @@
+{
+  "id": 5950354343,
+  "username": "QqJaqQ",
+  "first_name": "🌓QqJaqQ🌗",
+  "photo_url": null,
+  "balance": 0,
+  "inventory": [],
+  "last_free": 0,
+  "total_deposited": 0,
+  "total_spent": 0,
+  "stats": {
+    "cases_opened": 0,
+    "free_opened": 0,
+    "games_played": 0,
+    "pickaxe_plays": 0,
+    "wins": 0,
+    "losses": 0,
+    "items_sold": 0,
+    "best_drop": null,
+    "best_drop_value": 0
+  },
+  "created_at": 1791308791789,
+  "updated_at": 1791308791789,
+  "last_active": 1791308791789
+}

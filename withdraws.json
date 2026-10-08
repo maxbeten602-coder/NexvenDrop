@@ -1,0 +1,26 @@
+[
+  {
+    "uid": 5198310704,
+    "username": "vadefov",
+    "first_name": "кироваградов",
+    "item_name": "NFT/Gift",
+    "item_value": 50,
+    "item_nft": true,
+    "wd_short": "327",
+    "status": "sent",
+    "id": 1,
+    "ts": 1791356539617
+  },
+  {
+    "uid": 5198310704,
+    "username": "vadefov",
+    "first_name": "кироваградов",
+    "item_name": "NFT/Gift",
+    "item_value": 6,
+    "item_nft": true,
+    "wd_short": "905",
+    "status": "sent",
+    "id": 2,
+    "ts": 1791443281037
+  }
+]
